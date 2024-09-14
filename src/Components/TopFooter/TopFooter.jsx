@@ -4,7 +4,7 @@ import { MdOutlineMailOutline } from "react-icons/md"
 
 const TopFooter = () => {
     return (
-        <div className="flex items-center justify-between bg-red-100 w-full height-[56px] py-4 pl-[60px]">
+        <div className="flex items-center justify-between bg-red-100 w-full height-[56px] py-2 pl-[60px]">
             <div className="flex items-center gap-1">
                 <MdOutlineMailOutline className="text-red-500" />
                 <p>office@vellastorecare.com</p>
